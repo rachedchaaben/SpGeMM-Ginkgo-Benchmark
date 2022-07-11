@@ -17,5 +17,5 @@ then from the build folder your run :
 ``` sh
 cat data.JSON | benchmark/sparse_blas/sparse_blas -operations new_spgemm -executor omp -detailed
 ```
-new_spgemm is the option to run the spgemm implemented in this repository and spgemm is to run the one implemented in Ginkgo. 
+new_spgemm is the option to run the SpGeMM implemented in this repository and spgemm is to run the one implemented in Ginkgo. 
 
