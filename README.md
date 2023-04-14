@@ -1,5 +1,5 @@
 # SpGeMM-Ginko-Benchmark
-In this repository we implement an OpenMP SpGeMM kernel and we detail the instructions to perform benchmarks using Benchmarking implemented in Ginkgo.
+In this repository we use the SpGeMM implented in [a link](https://github.com/rachedchaaben/SpGeMM-Project), an OpenMP SpGeMM kernel and we detail the instructions to perform benchmarks using Benchmarking implemented in Ginkgo.
 
 Ginkgo is a high-performance linear algebra library for manycore systems. SpGeMM is a linear algebra kernel that we have worked on and we implemented an openMP version of it. 
 
